@@ -129,6 +129,7 @@ img {
   display: block;
   font-size: 1.4rem;
   color: var(--blanco);
+  padding: 1rem 0;
 }
 
 @media (min-width: 768px) {
